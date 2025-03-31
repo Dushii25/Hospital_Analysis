@@ -30,7 +30,7 @@ The dataset includes records of:
 
 
 ## 🎥 Video Walkthrough
-🎥 Watch my detailed explanation of the analysis here.
+🎥 Watch my detailed explanation of the analysis here. (https://github.com/Dushii25/Hospital_Analysis/blob/main/Hospital%20Analysis%20(1).mp4)
 
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests to improve the analysis.
